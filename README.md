@@ -92,3 +92,6 @@ When you want to exit the shell, you can simple press Ctrl + D
 > Lilian Onyeabo
 
 We hope you find this project really useful and have fun while at it.
+
+### Note
+Migrated from early ALX backend specialization (2023–2024). Collaborative project with @oxfordnotbrogues. Demonstrates full-stack shell scripting skills
